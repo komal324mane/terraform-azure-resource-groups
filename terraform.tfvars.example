@@ -1,0 +1,6 @@
+rgs = {
+  dev = {
+    name     = "rg-terraform-demo-dev"
+    location = "Central India"
+  }
+}
